@@ -1,0 +1,26 @@
+http://localhost:3000/api/problems
+
+All ProblemPid : 1
+Title : Zuma Game
+Solution : false
+Acceptance : 40.2
+---------------------------
+Pid : 2
+Title : Word Subsets
+Solution : true
+Acceptance : 46.2
+---------------------------
+Pid : 3
+Title : Word Search
+Solution : false
+Acceptance : 32.9
+---------------------------
+
+
+http://localhost:3000/api/problems/2
+
+Problem: {2 Word Subsets true 46.2}
+Pid : 2
+Title : Word Subsets
+Solution : true
+Acceptance : 46.2
